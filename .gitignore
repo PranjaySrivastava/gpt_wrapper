@@ -1,9 +1,9 @@
-# dependencies
-node_modules/
+# backend deps
+gpt-backend/node_modules/
 
-# environment variables / secrets
-.env
+# env file with secrets
+gpt-backend/.env
 
-# OS/editor junk
+# misc
 .DS_Store
 .vscode/
