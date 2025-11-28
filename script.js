@@ -1,4 +1,4 @@
-const BACKEND_URL =  "/api/chat";
+const BACKEND_URL = "http://localhost:3000/api/chat";
 
 
 // 2. Creating DOM elements
